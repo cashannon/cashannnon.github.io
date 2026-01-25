@@ -11,3 +11,4 @@ I welcome opportunities to discuss data science, analytics, and data governance 
 - Location: Papillion, NE
 - GitHub: https://github.com/cashannon
 - Portfolio: https://cashannnon.github.io
+- LinkedIn: https://www.linkedin.com/in/christian-shannon-6a5806138/
