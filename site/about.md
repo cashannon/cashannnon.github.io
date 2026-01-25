@@ -72,8 +72,6 @@ I work closely with IT, data governance, and business stakeholders to optimize d
 - Built SQL-based data profiles to ensure reliable data assets.  
 - Helped develop data governance policies and scalable data modeling. 
 
-*(You can continue adding earlier roles more briefly or keep these as a “snapshot” to keep the page focused.)* 
-
 ---
 
 ## Education
