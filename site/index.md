@@ -59,4 +59,4 @@ My background at spans analytics, application development, data governance, and 
 
 You can download my full resume here:
 
-- [Download Resume](files/Crissy-Shannon-Resume-2026.pdf)
+- [Download Resume](files/Christian-Shannon-Resume-2026.pdf)
