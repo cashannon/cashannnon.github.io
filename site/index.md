@@ -37,7 +37,7 @@ I am a Data Scientist with 15+ years of experience transforming complex data int
 
 ## Featured Course Project
 
-**[Project Title – “Project 1 (Course Project)”]**
+**Project Title – “Project 1 (Course Project)”**
 
 - business question addressed
 - data sources and techniques used (e.g., exploratory analysis, visualization, basic modeling).
