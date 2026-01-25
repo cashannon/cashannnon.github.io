@@ -1,8 +1,8 @@
 ---
-title: "Work – Christian Shannon"
+title: "Projects – Christian Shannon"
 ---
 
-# Work & Projects
+# Projects
 
 ## Featured Course Project
 
