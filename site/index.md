@@ -15,7 +15,7 @@ Papillion, NE • cashannon@my365.bellevue.edu • 402-639-2731
 I am a Data Scientist with 15+ years of experience transforming complex data into clear, actionable insights for business leaders.  
 I specialize in building dashboards, optimizing data processes, and strengthening data governance so organizations can make confident, data-driven decisions. 
 
-[Learn more about me](about.html) • [View my work](projects.html)
+[Learn more about me](about.md) • [View my work](projects.md)
 
 ---
 
