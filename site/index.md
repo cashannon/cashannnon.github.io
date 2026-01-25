@@ -38,13 +38,13 @@ I specialize in building dashboards, optimizing data processes, and strengthenin
 
 ## Featured Course Project
 
-**[Project Title – e.g., “Project 1 (Course Project)”]**
+**[Project Title – “Project 1 (Course Project)”]**
 
 - business question addressed
 - data sources and techniques used (e.g., exploratory analysis, visualization, basic modeling).
 - 1–2 key findings or outcomes
 
-[View the project on GitHub](/projects)
+[View the project on GitHub](projects)
 
 ---
 
@@ -59,4 +59,4 @@ My background at spans analytics, application development, data governance, and 
 
 You can download my full resume here:
 
-- [Download Resume](files/Christian Shannon Resume 2026.pdf)
+- [Download Resume](files/Christian-Shannon-Resume-2026.pdf)
