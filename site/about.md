@@ -4,7 +4,7 @@ title: "About – Christian Shannon"
 
 # About Me
 
-I am Christian Shannon, a Data Scientist based in Papillion, Nebraska, with 15+ years of experience delivering data-driven solutions. I bring a blend of technical depth and business understanding, moving from frontline operations into senior analytics and consulting roles. My work centers on turning raw data into clear stories, building dashboards and reports that answer real business questions, and strengthening data governance so that stakeholders can trust the information they use. I am currently pursuing a Bachelor of Science in Data Science at Bellevue University, further deepening my analytical and statistical toolkit. 
+I am a Data Scientist based in Papillion, Nebraska, with 15+ years of experience delivering data-driven solutions. I bring a blend of technical depth and business understanding, moving from frontline operations into senior analytics and consulting roles. My work centers on turning raw data into clear stories, building dashboards and reports that answer real business questions, and strengthening data governance so that stakeholders can trust the information they use. I am currently pursuing a Bachelor of Science in Data Science at Bellevue University, further deepening my analytical and statistical toolkit. 
 
 ---
 
