@@ -132,7 +132,7 @@ main {
 .profile-picture {
     width: 340px;
     height: 510px;
-    border: 4px solid #1a8ba8;
+    border: 12px solid #1a8ba8;
     border-radius: 8px;
     background: #fff;
     overflow: hidden;
