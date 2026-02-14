@@ -258,6 +258,7 @@ footer p {
 
 footer a {
     color: #1a8ba8;
+    font-size: 1.1rem;
     text-decoration: none;
     margin: 0 0.5rem;
     transition: color 0.3s;
