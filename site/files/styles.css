@@ -119,7 +119,7 @@ main {
 }
 
 .btn-download:hover {
-    background-color: #156a81;
+    background-color: #1a8ba8;
 }
 
 /* Hero Image/Profile Picture*/
@@ -262,7 +262,7 @@ footer a {
 }
 
 footer a:hover {
-    color: #156a81;
+    color: #1a8ba8;
     text-decoration: underline;
 }
 
