@@ -109,6 +109,7 @@ main {
 .btn-download {
     display: block;
         margin: 0 auto;
+        width: fit-content;
     background-color: #1a8ba8;
     color: white;
     padding: 0.75rem 2rem;
