@@ -133,7 +133,7 @@ main {
     width: 340px;
     height: 510px;
     border: 12px solid #1a8ba8;
-    border-radius: 8px;
+    border-radius: 4px;
     background: #fff;
     overflow: hidden;
     box-sizing: border-box;
@@ -143,7 +143,9 @@ main {
     width: 100%;
     height: 100%;;
     object-fit: cover;
-    border-radius: 8px;/* About Page Styles */
+    border-radius: 8px;
+
+/* About Page Styles */
 .about-page {
     background-color: #fff;
     padding: 3rem;
