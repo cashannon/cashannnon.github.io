@@ -133,7 +133,7 @@ main {
     width: 340px;
     height: 510px;
     border: 12px solid #1a8ba8;
-    border-radius: 4px;
+    border-radius: 8px;
     background: #fff;
     overflow: hidden;
     box-sizing: border-box;
