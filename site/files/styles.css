@@ -122,14 +122,14 @@ main {
     background-color: #156a81;
 }
 
-/* Hero Image/Profile Circle */
+/* Hero Image/Profile Picture*/
 .hero-image {
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.profile-circle {
+.profile-picture {
     width: 450px;
     height: 500px;
     border: 4px solid #1a8ba8;
@@ -142,7 +142,9 @@ main {
     font-size: 1.2rem;
     text-align: center;
     padding: 2rem;
-}/* Profile Image Styling */
+}
+
+/* Profile Image Styling */
 .profile-image {
     width: 450px;
     height: 500px;
@@ -274,11 +276,6 @@ footer a:hover {
     .hero {
         grid-template-columns: 1fr;
         text-align: center;
-    }
-    
-    .profile-circle {
-        width: 250px;
-        height: 250px;
     }
     
     .about-container {
